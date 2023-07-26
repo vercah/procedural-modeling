@@ -3,7 +3,7 @@ This is a simple Python application to demonstrate how grammars are used in proc
 
 ## Installation on Linux
 1. Clone or download the repository `git clone https://github.com/vercah/procedural-modeling.git`
-2. Go to the project directory `cd computational-geometry`
+2. Go to the project directory `cd procedural-modeling`
 3. Install the library, if needed `apt-get install python-tk` (you might need sudo)
 
 ## Usage
